@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vinoteca</string>
+    <string name="txt_pregunta">¿Cuantas copas de vino desea?</string>
+    <string name="txt_pedido">Número de copas</string>
+</resources>
